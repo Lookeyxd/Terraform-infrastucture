@@ -71,7 +71,7 @@ Gjør de endringene du vil i terraform.tfvars
 
 TERRAFORM
 
-az logout ; az login --scope https://management.core.windows.net//.default
+az logout ; az login 
 
 terraform init
 
