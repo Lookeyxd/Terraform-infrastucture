@@ -70,7 +70,7 @@ Gjør de endringene du vil i terraform.tfvars
 
 
 TERRAFORM
-Du må så bruke cd sp "filstien til der du har lagret repoen" så enter
+Du må så bruke cd  "filstien til der du har lagret repoen" så enter
 
 az logout ; az login 
 
