@@ -35,8 +35,8 @@ git clone <repository-url>
 cd <repository-directory>
 
 ENDRINGER I SCRIPT
-Endre til din egen subscription id i provider.tf
-Endre blobname til et eget navn som ikke er brukt tidligere.
+Endre til din egen subscription id i tfvars
+Endre blobname til et eget navn som ikke er brukt tidligere i tfvars
 Gjør de endringene du vil i terraform.tfvars
 
 TERRAFORM
